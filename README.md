@@ -1,0 +1,2 @@
+Usage:
+hwdump.exe [FILE]
