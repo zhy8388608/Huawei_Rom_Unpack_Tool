@@ -1,2 +1,2 @@
 Usage:
-hwdump.exe [FILE]
+hwdump.exe [UPDATE.APP]
